@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://wx3.sinaimg.cn/large/008kxC5bgy1gyst9yagosg30dw0dwk6m.gif" width="100" height="100" alt="pauui"></a>
+  <a href="https://wx3.sinaimg.cn/large/008kxC5bgy1gyst9yagosg30dw0dwk6m.gif" width="100" height="100" alt="EatKano">
 </p>
 <div align="center">
 
