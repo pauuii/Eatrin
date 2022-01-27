@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/arcxingye/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="pauui"></a>
+  <a href="https://wx3.sinaimg.cn/large/008kxC5bgy1gyst9yagosg30dw0dwk6m.gif" width="100" height="100" alt="pauui"></a>
 </p>
 <div align="center">
 
