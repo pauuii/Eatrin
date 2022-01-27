@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/arcxingye/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
+  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/arcxingye/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="pauui"></a>
 </p>
 <div align="center">
 
-# EatKano
+# pauui
 
 _🦌 网页小游戏 🥛_
 
@@ -12,7 +12,7 @@ _🦌 网页小游戏 🥛_
 
 ## 简介
 
-小游戏：吃掉小鹿乃
+小游戏：吃掉花云凛
 
 [线上版本](https://xingye.me/game/eatkano/index.php)
 |
