@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://i.postimg.cc/TPkJLxn1/J3-IPBKSP1-W3-L-9-JJ-V.png" width="100" height="100" alt="EatKano">
+  <a href="https://github.com/pauuii/-/blob/main/static/image/ClickBefore.png" width="100" height="100" alt="EatKano">
 </p>
 <div align="center">
 
