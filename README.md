@@ -16,7 +16,7 @@ _🦌 网页小游戏 🥛_
 
 [线上版本](https://github.com/pauuii/-/blob/main/static/image/ClickBefore.png)
 |
-[Github Page](https://pauuii.github.io/-/)
+[Github Page](https://pauuii.github.io/Eatrin/)
 
 ## 可选功能
 
