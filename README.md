@@ -14,7 +14,7 @@ _🦌 网页小游戏 🥛_
 
 小游戏：吃掉花云凛
 
-[线上版本](https://xingye.me/game/eatkano/index.php)
+[线上版本](https://github.com/pauuii/-/blob/main/static/image/ClickBefore.png)
 |
 [Github Page](https://arcxingye.github.io/EatKano/index.html)
 
