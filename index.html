@@ -2,7 +2,7 @@
 <html lang="zh">
 
 <head>
-    <title>"吃掉花云凛"</title>
+    <title>吃掉花云凛</title>
     <meta itemprop="name" content="吃掉花云凛" />
     <meta itemprop="description" content="新概念音游" />
     <meta charset="utf-8" />
